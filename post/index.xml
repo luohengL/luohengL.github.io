@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://github.com/luohengL/luohengl.github.io.git/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on </title>
+    <link>/post/</link>
+    <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 18 Jul 2019 21:41:59 +0800</lastBuildDate>
     
-	<atom:link href="https://github.com/luohengL/luohengl.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Fisrt Hogo Bolg Hello World</title>
-      <link>https://github.com/luohengL/luohengl.github.io.git/post/blog/</link>
+      <link>/post/blog/</link>
       <pubDate>Thu, 18 Jul 2019 21:41:59 +0800</pubDate>
       
-      <guid>https://github.com/luohengL/luohengl.github.io.git/post/blog/</guid>
+      <guid>/post/blog/</guid>
       <description> Hello World </description>
     </item>
     

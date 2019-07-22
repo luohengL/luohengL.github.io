@@ -2,12 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://luohengL.github.io/</link>
+    <link>/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 18 Jul 2019 21:41:59 +0800</lastBuildDate>
     
-	<atom:link href="http://luohengL.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Fisrt Hogo Bolg Hello World</title>
+      <link>/post/blog/</link>
+      <pubDate>Thu, 18 Jul 2019 21:41:59 +0800</pubDate>
+      
+      <guid>/post/blog/</guid>
+      <description> Hello World </description>
+    </item>
     
   </channel>
 </rss>
