@@ -3,29 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-07-18T21:41:59+08:00</lastmod>
+    <loc>http://luohengL.github.io/</loc>
+    <lastmod>2019-08-14T17:54:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/blog/</loc>
-    <lastmod>2019-07-18T21:41:59+08:00</lastmod>
+    <loc>http://luohengL.github.io/post/hugoCommand/</loc>
+    <lastmod>2019-08-14T17:54:53+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-07-18T21:41:59+08:00</lastmod>
+    <loc>http://luohengL.github.io/post/</loc>
+    <lastmod>2019-08-14T17:54:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>http://luohengL.github.io/post/not/</loc>
+    <lastmod>2019-07-24T20:26:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luohengL.github.io/post/MarkedownSyntax/</loc>
+    <lastmod>2019-07-22T19:52:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luohengL.github.io/post/blog/</loc>
+    <lastmod>2019-07-18T21:41:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://luohengL.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>http://luohengL.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

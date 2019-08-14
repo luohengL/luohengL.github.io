@@ -2,20 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>/</link>
+    <link>http://luohengL.github.io/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 18 Jul 2019 21:41:59 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2019 17:54:53 +0800</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://luohengL.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Hugo 常用命令</title>
+      <link>http://luohengL.github.io/post/hugoCommand/</link>
+      <pubDate>Wed, 14 Aug 2019 17:54:53 +0800</pubDate>
+      
+      <guid>http://luohengL.github.io/post/hugoCommand/</guid>
+      <description>1.新建markdown
+在项目目录中执行 hugo new XX.md 命令，会在 content 目录中创建这个 XX.md 文件。
+hugo new about.md  2.启动 hugo 自带的服务器
+在项目根目录下，通过 hugo server 命令可以使用 hugo 内置服务器调试预览博客。&amp;ndash;theme 选项可以指定主题，&amp;ndash;watch 选项可以在修改文件后自动刷新浏览器，&amp;ndash;buildDrafts 包括标记为草稿（draft）的内容。
+hugo server --theme=hugo-bootstrap --buildDrafts --watch hugo server  3.发布
+在使用hugo server -D预览网站无误后可正式发布网站到域名供大家浏览。将要发布的文章内draft改为false后执行命令
+hugo hugo --theme=yelee --baseUrl=&amp;quot;http://luohengL.github.io/&amp;quot;  可看到根目录下多出/public文件夹出来，该文件夹的内容即Hugo生成的整个静态网站。最终我们需要把这些静态网站的文件部署到一个地方.</description>
+    </item>
+    
+    <item>
+      <title>Not</title>
+      <link>http://luohengL.github.io/post/not/</link>
+      <pubDate>Wed, 24 Jul 2019 20:26:34 +0800</pubDate>
+      
+      <guid>http://luohengL.github.io/post/not/</guid>
+      <description>https://github.com/zhyocean/MyBlog</description>
+    </item>
+    
+    <item>
+      <title>MarkdownSyntax</title>
+      <link>http://luohengL.github.io/post/MarkedownSyntax/</link>
+      <pubDate>Mon, 22 Jul 2019 19:52:44 +0800</pubDate>
+      
+      <guid>http://luohengL.github.io/post/MarkedownSyntax/</guid>
+      <description>MarkDown 语法 标题 在想要设置为标题的文字前面加#来表示
+一个#是一级标题，二个#是二级标题，以此类推。支持六级标题
+示例：
+# 这是一级标题 ## 这是二级标题 ### 这是三级标题 #### 这是四级标题 ##### 这是五级标题 ###### 这是六级标题  效果入下:
+这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是五级标题 这是六级标题 ##文本
+ 换行: &amp;lt;br&amp;gt;&amp;lt;/br&amp;gt; 两个回车 **这是加粗的文字** *这是倾斜的文字*` ***这是斜体加粗的文字*** ~~这是加删除线的文字~~  效果如下：
+这是加粗的文字
+
+这是倾斜的文字 这是斜体加粗的文字
+这是加删除线的文字</description>
+    </item>
+    
+    <item>
       <title>My Fisrt Hogo Bolg Hello World</title>
-      <link>/post/blog/</link>
+      <link>http://luohengL.github.io/post/blog/</link>
       <pubDate>Thu, 18 Jul 2019 21:41:59 +0800</pubDate>
       
-      <guid>/post/blog/</guid>
+      <guid>http://luohengL.github.io/post/blog/</guid>
       <description> Hello World </description>
     </item>
     
